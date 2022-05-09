@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanosGere
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on junior flutter projects
+- 👀 I’m interested in Web  Development
+- 🌱 I’m currently learning HTML, CSS, JavaSript, jquery, REACT
+- 💞️ I’m looking to collaborate on junior web projects
 - 📫 How to reach me ...
 
 <!---
